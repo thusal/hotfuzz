@@ -1,1 +1,1 @@
-# hot-fuzz
+# hotfuzz
